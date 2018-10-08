@@ -1,0 +1,9 @@
+c:\users\mak\documents\visual studio 2017\Projects\FileManager\FileManager\bin\Debug\FileManager.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\FileManager\FileManager\bin\Debug\FileManager.exe
+c:\users\mak\documents\visual studio 2017\Projects\FileManager\FileManager\bin\Debug\FileManager.pdb
+c:\users\mak\documents\visual studio 2017\Projects\FileManager\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\FileManager\FileManager\obj\Debug\FileManager.Form1.resources
+c:\users\mak\documents\visual studio 2017\Projects\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+c:\users\mak\documents\visual studio 2017\Projects\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.Cache
+c:\users\mak\documents\visual studio 2017\Projects\FileManager\FileManager\obj\Debug\FileManager.exe
+c:\users\mak\documents\visual studio 2017\Projects\FileManager\FileManager\obj\Debug\FileManager.pdb
